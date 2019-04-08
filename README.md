@@ -1,4 +1,4 @@
-# ManageCloudServices
+# Manage Azure Cloud Services
 
 This sample shows how to manage Azure classic resources authenticating with Management Certificates and using Microsoft Azure Management Libraries.
 
